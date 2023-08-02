@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+.head {
+    background-color: #2578b5;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+}
+.head .one {
+    margin-left: 30px;
+    font-size: 22px;
+    font-weight: 500
+}
+.head .two {
+    float: right;
+    margin-right: 50px;
+}
+.head .three {
+    float: right;
+    margin-right: 30px;
+    color: red;
+    font-size: 16px;
+}
+.menu {
+    float: left;
+    padding-top: 10px;
+    width: 220px;
+    height: 100%;
+    background-color: lightblue;
+    float: left;
+}
+.menu .classes {
+    height: 70px;
+    font-size: 18px;
+    text-align: center;
+    line-height: 70px;
+}

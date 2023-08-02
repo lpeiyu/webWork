@@ -1,0 +1,17 @@
+.panel-head {
+    height: 40px;
+    background-color: #a8a5a5;
+    padding-left: 240px;
+    line-height: 40px;
+}
+table {
+    margin-top: 10px;
+    width: 1000px;
+    float: left;
+}
+table tr td {
+    /*width: 20px;*/
+    border: 1px solid black;
+    /*float: left;*/
+    text-align: center;
+}

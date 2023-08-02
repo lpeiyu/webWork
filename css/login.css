@@ -1,0 +1,25 @@
+body {
+    background-image: url("../photo/背景.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login {
+    border-style: groove;
+    border-width: 1px;
+    border-color: black;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 325px;
+    width:400px;
+    background: rgba(150,300,200,0.3)
+}
+form {
+    margin-left: 60px;
+}
+.login input {
+    font-size: 18px;
+}
+.login label {
+    font-size: 18px;
+}
